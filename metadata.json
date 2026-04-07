@@ -1,0 +1,5 @@
+{
+  "name": "Minesweeper",
+  "description": "A mobile-friendly Minesweeper game optimized for Apple Shortcuts.",
+  "requestFramePermissions": []
+}
